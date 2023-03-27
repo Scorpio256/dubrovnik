@@ -1,0 +1,157 @@
+/* CSS Document */
+p{
+text-indent: 30px;
+}
+
+h1{
+text-align: center;
+font-size: large;
+font-family: Arial, Verdana;
+}
+
+.main_page{
+text-align: justify;
+}
+
+#dubr_jpg{
+float: left;
+width: 349px;
+border-color: #000000;
+border-width: 5px;
+border-style: solid;
+margin: 5px;
+}
+
+#DSC05343_jpg{
+float: left;
+width: 400px;
+border-color: #000000;
+border-width: 5px;
+border-style: solid;
+margin: 5px;
+}
+
+#DSC05320_jpg{
+float: right;
+width: 300px;
+border-color: #000000;
+border-width: 5px;
+border-style: solid;
+margin: 5px;
+}
+
+#DSC05356_jpg{
+float: left;
+width: 300px;
+border-color: #000000;
+border-width: 5px;
+border-style: solid;
+margin: 5px;
+}
+/*..................................galerie...................................*/
+
+.galerie_zobrazeni{
+text-align: right;
+}
+
+.galerie img{
+border: none;
+}
+
+.galerie_tabulka{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+.galerie_strany{
+font-weight: bold;
+text-align: center;
+position: relative;
+top: -37px;
+}
+
+.galerie_strany1{
+text-align: center;
+}
+
+.galerie_strany1 a:link, a:visited{
+color: #000000;
+text-decoration: none;
+}
+
+.galerie_strany1 a:hover{
+color: #707070;
+text-decoration: underline;
+}
+
+.galerie_tabulka td{
+border: solid 1px #000000;
+}
+
+
+/*..................................hotely....................................*/
+
+.hotely{
+margin-left: auto;
+margin-right: auto;
+}
+
+.hotely .hotely{
+border-collapse: collapse;
+width: 400px;
+}
+
+.hotely td{
+border: solid 1px #000000;
+}
+
+.hotely #h_jpg{
+position: relative;
+top: 27px;
+float: left;
+width: 270px;
+border-color: #000000;
+border-width: 5px;
+border-style: solid;
+margin: 5px;
+}
+
+
+/*..................................Pamatky...................................*/
+
+.pamatky #t_hrad_jpg{
+float: left;
+width: 349px;
+border-color: #000000;
+border-width: 5px;
+border-style: solid;
+margin: 5px;
+}
+
+.pamatky #t_spon_jpg{
+float: right;
+width: 349px;
+border-color: #000000;
+border-width: 5px;
+border-style: solid;
+margin: 5px;
+}
+
+.pamatky #t_lovr_jpg{
+float: left;
+width: 349px;
+border-color: #000000;
+border-width: 5px;
+border-style: solid;
+margin: 5px;
+}
+
+.pamatky #t_orla_jpg{
+float: right;
+width: 349px;
+border-color: #000000;
+border-width: 5px;
+border-style: solid;
+margin: 5px;
+}

@@ -1,0 +1,111 @@
+/* CSS Document */
+body{
+text-align: center;
+margin: 0px auto;
+background-color: #99ccff;
+}
+
+.hlavni{
+text-align: center;
+margin: 0px auto;
+width: 758px;
+}
+
+.menu{
+width: 500px; 
+position: relative; 
+text-align: center; 
+margin: auto;
+font-family: Arial, Verdana;
+}
+
+#main_menu a{
+color: #000000;
+text-decoration: none;
+font-size: large;
+font-weight: bold;
+}
+
+#main_menu a:hover{
+color: #505050;
+text-decoration: underline;
+font-size: large;
+font-weight: bold;
+}
+
+.main_pic{
+width: 754px;
+height: 375px;
+background: url('images/web_design/img_01.jpg');
+vertical-align: bottom;
+text-align: center;
+}
+
+.left_border{
+width: 20px;
+height: auto;
+background: url('images/web_design/img_02.jpg');
+}
+
+.main_page{
+width: 714px;
+height: auto;
+background-color: #FFFFFF;
+}
+
+.right_border{
+width: 20px;
+height: auto;
+background: url('images/web_design/img_04.jpg');
+}
+
+.lines{
+width: 754px;
+height: 27px;
+background: url('images/web_design/img_05.jpg');
+}
+
+.banner{
+width: 277px;
+height: 31px;
+vertical-align: middle;
+text-align: left;
+background: url('images/web_design/img_06.jpg');
+}
+
+.copyright{
+width: 200px;
+height: 31px;
+vertical-align: middle;
+text-align: center;
+font-size: 12px;
+background: url('images/web_design/img_07.jpg');
+}
+
+.copyright_text{
+width: 200px;
+height: 31px;
+vertical-align: middle;
+text-align: center;
+font-size: 12px;
+position: relative;
+top: 2px;
+}
+
+.copyright a{
+text-decoration: none;
+color: #000000;
+}
+
+.copyright a:hover{
+text-decoration: underline;
+color: #000000;
+}
+
+.right_banner{
+width: 277px;
+height: 31px;
+vertical-align: middle;
+text-align: right;
+background: url('images/web_design/img_08.jpg');
+}
